@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj": {}
+    "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj": {
+    "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj",
+        "projectUniqueName": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj",
         "projectName": "LW-Restourantly",
-        "projectPath": "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj",
+        "projectPath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-Restourantly\\LW-Restourantly.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-Restourantly\\obj\\",
+        "outputPath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-Restourantly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

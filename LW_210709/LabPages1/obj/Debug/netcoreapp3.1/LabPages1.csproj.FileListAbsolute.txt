@@ -1,0 +1,153 @@
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.exe
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.deps.json
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.runtimeconfig.json
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.runtimeconfig.dev.json
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.pdb
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.Views.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.Views.pdb
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.csproj.AssemblyReference.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.AssemblyInfoInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.AssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.csproj.CoreCompileInputs.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorAssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\LabPages1.StaticWebAssets.Manifest.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\LabPages1.StaticWebAssets.xml
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabPages1.styles.css
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.TagHelpers.input.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.TagHelpers.output.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorCoreGenerate.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorTargetAssemblyInfo.cache
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorTargetAssemblyInfo.cs
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.Views.pdb
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.csproj.CopyComplete
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.dll
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.pdb
+C:\Users\GabilGG\Documents\CodeWorks\05. LW_VS\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.genruntimeconfig.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.StaticWebAssets.xml
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.exe
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.deps.json
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.runtimeconfig.json
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.runtimeconfig.dev.json
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.pdb
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.Views.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\LabPages1.Views.pdb
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.csproj.AssemblyReference.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.AssemblyInfoInputs.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.AssemblyInfo.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.csproj.CoreCompileInputs.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.MvcApplicationPartsAssemblyInfo.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorAssemblyInfo.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorAssemblyInfo.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\LabPages1.StaticWebAssets.Manifest.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\LabPages1.StaticWebAssets.Pack.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LabPages1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LabPages1.props
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LabPages1.props
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LabPages1.props
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.TagHelpers.input.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.TagHelpers.output.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorCoreGenerate.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorTargetAssemblyInfo.cache
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.RazorTargetAssemblyInfo.cs
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.Views.pdb
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.csproj.CopyComplete
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.dll
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.pdb
+E:\Lessons\CodeLessons\PracticeCodes\P220_group\LW_210709\LabPages1\obj\Debug\netcoreapp3.1\LabPages1.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-210702\\LW-210702.csproj",
+      "projectUniqueName": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-210702\\LW-210702.csproj",
       "projectName": "LW-210702",
-      "projectPath": "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-210702\\LW-210702.csproj",
+      "projectPath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-210702\\LW-210702.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Codes\\gitProjects\\LW-210702\\LW-210702\\LW-210702\\obj\\",
+      "outputPath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW-210702\\LW-210702\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

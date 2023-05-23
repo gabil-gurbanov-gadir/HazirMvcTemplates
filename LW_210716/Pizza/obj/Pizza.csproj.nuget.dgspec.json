@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\gitProjects\\ForAli\\LW_210716\\Pizza\\Pizza.csproj": {}
+    "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW_210716\\Pizza\\Pizza.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\gitProjects\\ForAli\\LW_210716\\Pizza\\Pizza.csproj": {
+    "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW_210716\\Pizza\\Pizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\gitProjects\\ForAli\\LW_210716\\Pizza\\Pizza.csproj",
+        "projectUniqueName": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW_210716\\Pizza\\Pizza.csproj",
         "projectName": "Pizza",
-        "projectPath": "D:\\Codes\\gitProjects\\ForAli\\LW_210716\\Pizza\\Pizza.csproj",
+        "projectPath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW_210716\\Pizza\\Pizza.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\gitProjects\\ForAli\\LW_210716\\Pizza\\obj\\",
+        "outputPath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW_210716\\Pizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8ImBZpqxKZGqz8vFP2V8XjUVYJJV+te8woBYis/riH1fLIIG7v1D1ZFIqoWBjeFJmoKl9do4INrW+wreDGH4Q==",
+  "dgSpecHash": "wIS9MRoA0K60xWpg30jGuTquXpy8vd28MSYVH6pEZpSCnbovL4pqNbR/TelHVg5WUL6fGii2kSubYhAXtExV2w==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\gitProjects\\ForAli\\LW_210716\\Pizza\\Pizza.csproj",
+  "projectFilePath": "D:\\Codes\\gitProjects\\HazirMvcTemplates\\LW_210716\\Pizza\\Pizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
